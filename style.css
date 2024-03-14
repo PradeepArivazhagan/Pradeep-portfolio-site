@@ -1,0 +1,58 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.fullstack-text-color{
+    color: #FF407D;
+}
+.download-btn-style{
+    background-color: #40679E;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+.profile-image-style{
+    width: 75%;
+    filter: drop-shadow(5px 10px 15px #22222244); 
+}
+.aboutme-section-style{
+    background-color: #40679e14;
+}
+.aboutme-para-style{
+   width: 100%;
+   margin-top: 40px;
+   margin-bottom: 80px;
+   margin-left: 80px;
+   margin-right: 80px;
+}
+.skill-card{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 200px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+.img-style{
+    width: 100%;
+}
+.project-card-style{
+    background: rgba(255, 255, 255, .7);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+    width: 300px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, );
+}
+.form-style{
+    background-color: #40679E;
+    padding: 50px;
+    border-radius: 15px;
+}
+.submit-btn-style{
+    background-color: #FF407D;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
