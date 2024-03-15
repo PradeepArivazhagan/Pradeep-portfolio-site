@@ -3,33 +3,44 @@
     font-weight: 400;
     font-style: normal;
 }
+.logo-style{
+    font-weight: bold;
+}
+
+.text-style{
+    color: #E54B4B;
+}
+
 .fullstack-text-color{
-    color: #FF407D;
+    color: #E54B4B;
 }
 .download-btn-style{
-    background-color: #40679E;
+    background-color: #1E1E24;
     border: none;
     color: white;
     border-radius: 6px;
+}
+.download-btn-style:hover{
+    background-color: #444140;
 }
 .profile-image-style{
     width: 75%;
     filter: drop-shadow(5px 10px 15px #22222244); 
 }
+
 .aboutme-section-style{
-    background-color: #40679e14;
+    background-color: #4441400f;
+}
+.about-text-style{
+    color: #1E1E24;
 }
 .aboutme-para-style{
    width: 100%;
-   margin-top: 40px;
-   margin-bottom: 80px;
-   margin-left: 80px;
-   margin-right: 80px;
 }
 .skill-card{
     border: none;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    width: 200px;
+    width: 180px;
     text-align: center;
     padding: 40px;
     border-radius: 10px;
@@ -45,14 +56,21 @@
     border-radius: 10px;
     background-image: linear-gradient(to right, );
 }
+
 .form-style{
-    background-color: #40679E;
-    padding: 50px;
+    background-color: #444140 ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 35px;
+    padding-bottom: 35px;
     border-radius: 15px;
 }
 .submit-btn-style{
-    background-color: #FF407D;
+    background-color: #E54B4B;
     border: none;
     color: white;
     border-radius: 6px;
+}
+.submit-btn-style:hover{
+    background-color: #e54b4bcb;
 }
