@@ -7,12 +7,8 @@
     font-weight: bold;
 }
 
-.text-style{
-    color: #E54B4B;
-}
+.nav-item-style:active{
 
-.nav-item-style{
-    color: #E54B4B;
 }
 
 .fullstack-text-color{
@@ -32,11 +28,16 @@
     filter: drop-shadow(5px 10px 15px #22222244); 
 }
 
+.inner-cont-style{
+    padding: 140px 90px 135px 90px;
+}
+
 .aboutme-section-style{
     background-color: #4441400f;
 }
-.about-text-style{
+.text-style{
     color: #1E1E24;
+    font-size: 35px;
 }
 .aboutme-para-style{
    width: 100%;
