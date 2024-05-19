@@ -29,6 +29,7 @@
 
 .download-btn-style:hover{
     background-color: #444140;
+    filter: drop-shadow(5px 10px 15px #22222244); 
 }
 
 .profile-image-style{
@@ -85,7 +86,6 @@
 	backdrop-filter: blur(10px);
     width: 300px;
     border-radius: 10px;
-    background-image: linear-gradient(to right, );
 }
 
 .form-style{
