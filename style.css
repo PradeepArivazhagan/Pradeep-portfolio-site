@@ -89,7 +89,7 @@
 }
 
 .form-style{
-    background-color: #444140 ;
+    background-color: transparent ;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 35px;
@@ -102,6 +102,7 @@
     border: none;
     color: white;
     border-radius: 6px;
+    
 }
 
 .submit-btn-style:hover{
