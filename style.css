@@ -6,6 +6,12 @@
 .logo-style{
     font-weight: bold;
 }
+.nav-link:hover{
+    color: #E54B4B !important;
+}
+.nav-link:focus{
+    color: #E54B4B !important;
+}
 
 .fullstack-text-color{
     color: #E54B4B;
@@ -25,7 +31,7 @@
 }
 
 .inner-cont-style{
-    padding: 140px 90px 135px 90px;
+    padding: 140px 70px 135px 70px;
 }
 
 .aboutme-section-style{
