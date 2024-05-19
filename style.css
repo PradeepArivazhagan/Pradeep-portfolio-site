@@ -3,12 +3,15 @@
     font-weight: 400;
     font-style: normal;
 }
+
 .logo-style{
     font-weight: bold;
 }
+
 .nav-link:hover{
     color: #E54B4B !important;
 }
+
 .nav-link:focus{
     color: #E54B4B !important;
 }
@@ -16,15 +19,18 @@
 .fullstack-text-color{
     color: #E54B4B;
 }
+
 .download-btn-style{
     background-color: #1E1E24;
     border: none;
     color: white;
     border-radius: 6px;
 }
+
 .download-btn-style:hover{
     background-color: #444140;
 }
+
 .profile-image-style{
     width: 75%;
     filter: drop-shadow(5px 10px 15px #22222244); 
@@ -33,17 +39,33 @@
 .inner-cont-style{
     padding: 140px 70px 135px 70px;
 }
-
-.aboutme-section-style{
+.section-style{
     background-color: #4441400f;
 }
+.about-section1-style{
+    padding: 220px 70px 220px 70px;
+}
+
+.about-section2-style{
+   width: 100%;
+   padding-top: 70px;
+}
+
+.skill-section1-style{
+    padding: 150px 70px 50px 70px;
+}
+
+.skill-section2-style{
+   width: 100%;
+   padding-top: 100px;
+}
+
 .text-style{
     color: #1E1E24;
     font-size: 33px;
 }
-.aboutme-para-style{
-   width: 100%;
-}
+
+
 .skill-card{
     border: none;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -52,9 +74,11 @@
     padding: 40px;
     border-radius: 10px;
 }
+
 .img-style{
     width: 100%;
 }
+
 .project-card-style{
     background: rgba(255, 255, 255, .7);
 	-webkit-backdrop-filter: blur(10px);
@@ -72,12 +96,14 @@
     padding-bottom: 35px;
     border-radius: 15px;
 }
+
 .submit-btn-style{
     background-color: #E54B4B;
     border: none;
     color: white;
     border-radius: 6px;
 }
+
 .submit-btn-style:hover{
     background-color: #e54b4bcb;
 }
